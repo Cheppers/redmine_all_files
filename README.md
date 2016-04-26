@@ -5,6 +5,10 @@ Plugin for Redmine to view all project files.
 * Maintainer: Dmitry Kovalenok, [Hirurg103](https://github.com/Hirurg103)
 * Contact: Report questions, bugs or feature requests on the [IssueTracker](https://github.com/twinslash/redmine_all_files/issues) or get in touch with me at [dzm.kov@gmail.com](mailto:dzm.kov@gmail.com)
 
+## Requirements
+
+The plugin is compatible with Redmine 2.1.x stable and above up to 3.0.7.
+
 ## Installation
 
 Clone plugin's source code into /plugins application directory:
