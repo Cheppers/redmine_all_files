@@ -1,0 +1,16 @@
+hu:
+  project_module_all_files: "Minden fájl"
+  all_project_files: "A projekthez tartozó fájl(ok)"
+
+  attached: "Csatolva ehhez a"
+  to_document: "dokumentumhoz:"
+  to_issue: "feladathoz:"
+  to_project_files: "projekthez, fájlként:"
+  to_news: "hírhez:"
+  to_version: "verzióhoz:"
+  to_wiki_page: "wiki oldalhoz:"
+  of_the_project: "ebben a projektben:"
+
+  date:
+    formats:
+      month_day: "%B %d."
